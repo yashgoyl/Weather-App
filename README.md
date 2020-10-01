@@ -7,3 +7,6 @@ _This Weather app gives the live updates of the current weather in the city user
 _The real time weather information with the icon and the description come from [Open Weather Map](https://openweathermap.org/)._
 
 _To use this application, firstly download the source code and put it into the folder and please ensure that Django is installed on the environment/ virtual environment you're working on. Now to run the app just open the directory to which it is stored, and run using command "python manage.py runserver"._
+
+
+I love anjali
