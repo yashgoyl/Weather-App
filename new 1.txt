@@ -1,0 +1,20 @@
+switch from free to comm- patient_services_data
+necessary changes done file yet to be uploaded.
+replaced 2 hcp ids with 2 hco ids, where the condition matched, alongwith fac_end_dates.
+
+
+
+
+age in queue - patient_therapy_data
+necessary changes done and file uploaded.
+replaced 5 hcp ids with 5 hco ids as shivesh had updated the dataset
+with new dates
+
+
+
+
+Reauth time - patient_therapy_data
+changes not done file not uploaded.
+changes to be done are: PA_LAST_STARTDATE + 45 < PA_LAST_ENDDATE for
+specific hcp ids, which are to be replaced with hco ids.
+
